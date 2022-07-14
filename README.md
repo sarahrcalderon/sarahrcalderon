@@ -1,7 +1,5 @@
  
- Hi there 👋 , I'm Sarah!
- I am a software engineering student, first semester.
- 
+
 
 
 <div align="center" style="display: inline_block"><br>
